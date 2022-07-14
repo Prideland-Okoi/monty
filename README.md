@@ -32,6 +32,30 @@ push 5
 $
 ```
 
+## Resources
+
+* [Hello World in Brainfuck](https://youtu.be/0nY80P5QFgo)
+
+
+
+* [What is Instruction Format in COA?](https://youtu.be/jTa0w-MxFJE)
+
+
+
+* [monty 2022.4.26](https://pypi.org/project/monty/)
+
+
+
+* [Github - fiabianishere/brainfuck: Brainfuck interpreter written in C](https://github.com/fabianishere/brainfuck)
+
+
+
+* [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
+
+
+
+* [Ascii Table - ASCII Character](www.asciitable.com)
+
 ## Technologies
 * Interpreter was written with C language
 * C files are compiled using `gcc 9.8.4`
